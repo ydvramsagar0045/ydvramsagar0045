@@ -41,7 +41,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ydvramsagar0045&show_icons=true&theme=tokyonight" alt="Ramsagar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ydvramsagar0045&show_icons=true&theme=tokyonight" alt="Ramsagar's GitHub Stats" width="48%" />  &nbspp;  &nbspp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydvramsagar0045&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
